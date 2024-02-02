@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 
-import plotly.express as px
+
 import datetime
 from datetime import date, timedelta
 from statsmodels.tsa.seasonal import seasonal_decompose
